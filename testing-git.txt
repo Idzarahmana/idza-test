@@ -1,5 +1,6 @@
 Belajar Git hub
 
 - gps, web
-- vue js
+- vue j...........done
 - golang
+- docker
