@@ -6,3 +6,5 @@ New plant:
 - redis
 - doc
 - postgres
+- node js
+- golang
