@@ -1,7 +1,6 @@
 New plant:
 
 - kubernetes
-  - doc
   - prac
 - redis
 - doc
