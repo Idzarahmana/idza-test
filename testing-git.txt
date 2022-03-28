@@ -1,3 +1,5 @@
 Belajar Git hub
 
 - gps, web
+- vue js
+- golang
