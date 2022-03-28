@@ -5,6 +5,8 @@ New plant:
 - redis
 - doc
 - postgres
+- mongo db
 - maria db
 - node js
 - golang
+- vue js
