@@ -1,8 +1,9 @@
 New plant:
 
 - kubernetes
-  - doc
   - prac
 - redis
 - doc
 - postgres
+- angular
+- laravel
